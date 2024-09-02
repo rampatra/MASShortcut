@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> The [MASShortcut library](https://github.com/shpakovski/MASShortcut) now supports Swift Package Manager, so you might be better off using that instead of this repo.
+
 # Intro
 
 This is a fork of the famous [MASShortcut library](https://github.com/shpakovski/MASShortcut). I have converted it to a Swift Package so that it can be easily installed via Swift Package Manager (SPM). Most of the credit for this goes to [SDGGiesbrecht](https://forums.swift.org/u/SDGGiesbrecht).
