@@ -21,7 +21,7 @@ Doesn't support localization. It can only support one language for now. This wil
 
 # Live Example
 
-This library is being used in my app [Presentify](https://presentify.compzets.com/). You can get it from the [Mac App Store](https://apps.apple.com/app/id1507246666) or [Setapp](https://go.setapp.com/stp285?utm_medium=vendor_program&utm_source=Ram+Patra&utm_content=link) and go to `Preferences > Keyboard` to see how this looks/works.
+This library is being used in my app [Presentify](https://presentifyapp.com/). You can get it from the [Mac App Store](https://apps.apple.com/app/id1507246666) or [Setapp](https://go.setapp.com/stp285?utm_medium=vendor_program&utm_source=Ram+Patra&utm_content=link) and go to `Preferences > Keyboard` to see how this looks/works.
 
 # Copyright
 
